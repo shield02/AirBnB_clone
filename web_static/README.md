@@ -6,4 +6,5 @@
 * 3-index - static HTML page that displays a header and footer by using CSS files
 * 4-index - static HTML page that displays a header, footer and a filters box with a search button
 * 5-index - static HTNL page that displays a header, footer and a filters box
+* 6-index - static HTML page that displays a header, footer and a filters box with dropdown
 
