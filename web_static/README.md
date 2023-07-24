@@ -12,4 +12,4 @@
 * 100-index - static HTML page that displays a header, footer, a filters box with dropdown and results
 * 101-index - improve the Places section by using Flexible boxes for all Place articles
 * 102-index - improve the page by adding responsive design to display correctly in mobile or small screens
-
+* 103-index - improve the page by adding Accessibility support
