@@ -5,6 +5,7 @@
     align-content: flex-start;
     justify-content: center;
 }
+
 .places h1{
     font-size: 30px;
     color: inherit;
@@ -28,7 +29,6 @@
     justify-content: center;
 }
 
-/* CIRCLE PRICE */
 .places article h2 {
     font-size: 30px;
     margin-top: 0;
@@ -55,13 +55,12 @@
     text-align: center;
 }
 
-/* PICS AND INFO */
 .information {
     display: flex;
     flex: 1 1 100px;
     justify-content: space-evenly;
     align-items: center;
-    margin-top: 5%; /* wait */
+    margin-top: 5%;
     border-top: 1px solid #DDDDDD;
     border-bottom: 1px solid #DDDDDD;
     height: 90px;
@@ -75,7 +74,6 @@
 }
 
 .information div p {
-    /* position: absolute; */
     display:inline-block;
     text-align: center;
     padding-top: 50px;
@@ -87,7 +85,6 @@
     width: 100px;
     height: 100%;
     justify-content: center;
-    /* position: relative; */
 }
 
 .number_rooms {
@@ -96,7 +93,6 @@
     width: 100px;
     height: 100%;
     justify-content: center;
-    /* position: relative; */
 }
 
 
@@ -106,11 +102,9 @@
     width: 100px;
     height: 100%;
     bottom: 0;
-    /* position: relative; */
     justify-content: center;
 }
 
-/* USER */
 .user {
     display: flex;
     margin: 20px 0 5px 0;
@@ -118,7 +112,6 @@
     justify-content: flex-start;
 }
 
-/* AMENITIES */
 .places .amenities {
     margin: 0;
     margin-top: 40px;
@@ -151,8 +144,6 @@
     height: 1.3em;
     justify-content: center;
     width: 30%;
-
-    /* position: relative; */
 }
 
 .places article .amenities ul .wifi {
@@ -163,21 +154,18 @@
     width: 1.3em;
     height: 1.3em;
     width: 30%;
-    /* position: relative; */
 }
 
 .places article .amenities ul .pet {
     background-image: url("../images/icon_pets.png");
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size: contain;
     width: 1.3em;
     height: 1.3em;
     width: 30%;
     justify-content: center;
-    /* position: relative; */
 }
 
-/* REVIEW */
 .places article .reviews {
     flex: 1 1 100%;
     margin-top: 40px;
